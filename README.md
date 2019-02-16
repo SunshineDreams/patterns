@@ -1,2 +1,2 @@
-# patterns
-设计模式之禅
+# Patterns
+The source code of learning design patterns
